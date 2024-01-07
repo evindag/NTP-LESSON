@@ -17,37 +17,30 @@ namespace SwitchCase
             InitializeComponent();
         }
 
-       
-            private void button1_Click(object sender, EventArgs e)
-            {
-                string secilenYemek = textBox1.Text.ToLower(); // Kullanıcı girişini küçük harflere dönüştürüyoruz
+        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string secilenYemek = textBox1.Text.ToLower(); // Girilen tüm harfleri küçük harfe çevirir.
+            string yemekIcerik;
+            double yemekUcret;
 
-                string yemekIcerik;
-                double yemekFiyat;
-
-                switch (secilenYemek)
-                {
-                    case "hamburger":
-                        yemekIcerik = "Kıymalı köfte, marul, domates, turşu, ketçap ve mayonez ile servis edilir.";
-                        yemekFiyat = 15.99;
-                        break;
-                    case "pizza":
-                        yemekIcerik = "Mozzarella peyniri, domates sosu, jambon, mantar, yeşil biber ve zeytin ile hazırlanmıştır.";
-                        yemekFiyat = 18.50;
-                        break;
-                    case "salata":
-                        yemekIcerik = "Karışık yeşillikler, rendelenmiş havuç, domates, salatalık ve dilimlenmiş biber ile sunulur.";
-                        yemekFiyat = 12.75;
-                        break;
-                    default:
-                        yemekIcerik = "Menümüzde bu yemek bulunmamaktadır.";
-                        yemekFiyat = 0.00;
-                        break;
-                }
-
-                MessageBox.Show("Seçilen Yemek: " + secilenYemek.ToUpper() + "\nİçerik: " + yemekIcerik + "\nFiyat: $" + yemekFiyat.ToString("0.00"));
+            switch (secilenYemek)
+            {      //case: Seçilecek durumlardır.
+                case "hamburger" :
+                    yemekIcerik = "Patates, kola, ketçap ve mayonezle servis edilir.";
+                    yemekUcret = 199.99;
+                    break; // durumdan çıkmayı sağlar.
+                case "pizza" :
+                    yemekIcerik = "Patates, kola, ketçap ve mayonezle servis edilir.";
+                    yemekUcret = 219.99;
+                    break;
+                default:
+                    yemekIcerik = "Menümüzde böyle bir yemek bulunmamaktadır. ";
+                    yemekUcret = 00.00;
+                    break;
             }
+            MessageBox.Show("Seçilen yemek: "+ secilenYemek.ToUpper() +"\nİçerik: "+yemekIcerik + "\nYemek Ücreti:" + yemekUcret.ToString("0.00"));
+            // ToUpper() fonksiyonu tüm karakterleri büyük harfe çevirir.
         }
     }
-    
-
+}
