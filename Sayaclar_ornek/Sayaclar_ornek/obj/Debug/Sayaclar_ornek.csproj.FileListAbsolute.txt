@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\bin\Debug\Sayaclar_ornek.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\bin\Debug\Sayaclar_ornek.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\bin\Debug\Sayaclar_ornek.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\obj\Debug\Sayaclar_ornek.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\obj\Debug\Sayaclar_ornek.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\obj\Debug\Sayaclar_ornek.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\obj\Debug\Sayaclar_ornek.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\obj\Debug\Sayaclar_ornek.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayaclar_ornek\Sayaclar_ornek\obj\Debug\Sayaclar_ornek.pdb

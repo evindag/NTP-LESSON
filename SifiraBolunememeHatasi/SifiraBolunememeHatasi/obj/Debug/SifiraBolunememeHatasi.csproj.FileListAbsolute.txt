@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\bin\Debug\SifiraBolunememeHatasi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\bin\Debug\SifiraBolunememeHatasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\bin\Debug\SifiraBolunememeHatasi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\obj\Debug\SifiraBolunememeHatasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\obj\Debug\SifiraBolunememeHatasi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\obj\Debug\SifiraBolunememeHatasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\obj\Debug\SifiraBolunememeHatasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\obj\Debug\SifiraBolunememeHatasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\SifiraBolunememeHatasi\SifiraBolunememeHatasi\obj\Debug\SifiraBolunememeHatasi.pdb

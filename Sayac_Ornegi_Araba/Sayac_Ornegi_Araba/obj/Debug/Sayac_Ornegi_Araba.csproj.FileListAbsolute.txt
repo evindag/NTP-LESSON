@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\bin\Debug\Sayac_Ornegi_Araba.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\bin\Debug\Sayac_Ornegi_Araba.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\bin\Debug\Sayac_Ornegi_Araba.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\obj\Debug\Sayac_Ornegi_Araba.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\obj\Debug\Sayac_Ornegi_Araba.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\obj\Debug\Sayac_Ornegi_Araba.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\obj\Debug\Sayac_Ornegi_Araba.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\obj\Debug\Sayac_Ornegi_Araba.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Sayac_Ornegi_Araba\Sayac_Ornegi_Araba\obj\Debug\Sayac_Ornegi_Araba.pdb
