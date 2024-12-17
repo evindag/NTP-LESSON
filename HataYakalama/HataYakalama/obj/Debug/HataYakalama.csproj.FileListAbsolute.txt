@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\bin\Debug\HataYakalama.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\bin\Debug\HataYakalama.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\bin\Debug\HataYakalama.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\obj\Debug\HataYakalama.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\obj\Debug\HataYakalama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\obj\Debug\HataYakalama.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\obj\Debug\HataYakalama.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataYakalama\HataYakalama\obj\Debug\HataYakalama.pdb

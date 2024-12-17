@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\bin\Debug\KosulluForDongusu.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\bin\Debug\KosulluForDongusu.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\bin\Debug\KosulluForDongusu.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\KosulluForDongusu\KosulluForDongusu\obj\Debug\KosulluForDongusu.csprojAssemblyReference.cache

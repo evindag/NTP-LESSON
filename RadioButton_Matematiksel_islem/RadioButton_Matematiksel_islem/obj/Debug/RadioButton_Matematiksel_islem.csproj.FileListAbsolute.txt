@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\bin\Debug\RadioButton_Matematiksel_islem.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\bin\Debug\RadioButton_Matematiksel_islem.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\bin\Debug\RadioButton_Matematiksel_islem.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\obj\Debug\RadioButton_Matematiksel_islem.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\obj\Debug\RadioButton_Matematiksel_islem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\obj\Debug\RadioButton_Matematiksel_islem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\obj\Debug\RadioButton_Matematiksel_islem.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\RadioButton_Matematiksel_islem\RadioButton_Matematiksel_islem\obj\Debug\RadioButton_Matematiksel_islem.pdb
