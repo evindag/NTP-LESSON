@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\bin\Debug\Switch_Case_Haftanin_Gunleri.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\bin\Debug\Switch_Case_Haftanin_Gunleri.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\bin\Debug\Switch_Case_Haftanin_Gunleri.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\obj\Debug\Switch_Case_Haftanin_Gunleri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\obj\Debug\Switch_Case_Haftanin_Gunleri.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\obj\Debug\Switch_Case_Haftanin_Gunleri.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\obj\Debug\Switch_Case_Haftanin_Gunleri.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\obj\Debug\Switch_Case_Haftanin_Gunleri.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Haftanin_Gunleri\Switch_Case_Haftanin_Gunleri\obj\Debug\Switch_Case_Haftanin_Gunleri.pdb
