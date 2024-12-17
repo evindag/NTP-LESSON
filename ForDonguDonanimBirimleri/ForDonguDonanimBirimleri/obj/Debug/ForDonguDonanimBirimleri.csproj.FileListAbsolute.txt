@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\bin\Debug\ForDonguDonanimBirimleri.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\bin\Debug\ForDonguDonanimBirimleri.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\bin\Debug\ForDonguDonanimBirimleri.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguDonanimBirimleri\ForDonguDonanimBirimleri\obj\Debug\ForDonguDonanimBirimleri.pdb

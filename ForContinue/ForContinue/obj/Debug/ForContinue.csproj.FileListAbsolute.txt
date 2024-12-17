@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\bin\Debug\ForContinue.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\bin\Debug\ForContinue.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\bin\Debug\ForContinue.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\obj\Debug\ForContinue.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\obj\Debug\ForContinue.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\obj\Debug\ForContinue.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\obj\Debug\ForContinue.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\obj\Debug\ForContinue.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForContinue\ForContinue\obj\Debug\ForContinue.pdb

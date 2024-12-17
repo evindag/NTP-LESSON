@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\bin\Debug\ForDonguListbox.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\bin\Debug\ForDonguListbox.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\bin\Debug\ForDonguListbox.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguListbox\ForDonguListbox\obj\Debug\ForDonguListbox.pdb
