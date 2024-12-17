@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\bin\Debug\ForDonguOrnek1.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\bin\Debug\ForDonguOrnek1.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\bin\Debug\ForDonguOrnek1.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\obj\Debug\ForDonguOrnek1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\obj\Debug\ForDonguOrnek1.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\obj\Debug\ForDonguOrnek1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\obj\Debug\ForDonguOrnek1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\obj\Debug\ForDonguOrnek1.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguOrnek1\ForDonguOrnek1\obj\Debug\ForDonguOrnek1.pdb
