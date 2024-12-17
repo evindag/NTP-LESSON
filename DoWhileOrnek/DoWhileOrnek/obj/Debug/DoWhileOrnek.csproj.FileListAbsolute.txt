@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\bin\Debug\DoWhileOrnek.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\bin\Debug\DoWhileOrnek.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\bin\Debug\DoWhileOrnek.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileOrnek\DoWhileOrnek\obj\Debug\DoWhileOrnek.pdb

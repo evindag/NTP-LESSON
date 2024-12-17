@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\bin\Debug\DoWhileProje.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\bin\Debug\DoWhileProje.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\bin\Debug\DoWhileProje.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\obj\Debug\DoWhileProje.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\obj\Debug\DoWhileProje.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\obj\Debug\DoWhileProje.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\obj\Debug\DoWhileProje.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\obj\Debug\DoWhileProje.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Yeni klasör\DoWhileProje\DoWhileProje\obj\Debug\DoWhileProje.pdb
