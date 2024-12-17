@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\bin\Debug\WhileContinue.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\bin\Debug\WhileContinue.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\bin\Debug\WhileContinue.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\obj\Debug\WhileContinue.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\obj\Debug\WhileContinue.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\obj\Debug\WhileContinue.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\obj\Debug\WhileContinue.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileContinue\WhileContinue\obj\Debug\WhileContinue.pdb

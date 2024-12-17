@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\bin\Debug\WhileToplamDonguSayisi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\bin\Debug\WhileToplamDonguSayisi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\bin\Debug\WhileToplamDonguSayisi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileToplamDonguSayisi\WhileToplamDonguSayisi\obj\Debug\WhileToplamDonguSayisi.pdb
