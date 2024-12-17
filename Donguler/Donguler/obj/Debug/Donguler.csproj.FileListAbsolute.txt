@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\obj\Debug\Donguler.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\obj\Debug\Donguler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\obj\Debug\Donguler.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\obj\Debug\Donguler.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Donguler\Donguler\obj\Debug\Donguler.csprojResolveAssemblyReference.cache

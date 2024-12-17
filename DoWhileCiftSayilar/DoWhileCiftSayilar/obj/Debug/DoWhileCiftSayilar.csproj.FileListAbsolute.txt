@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\bin\Debug\DoWhileCiftSayilar.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\bin\Debug\DoWhileCiftSayilar.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\bin\Debug\DoWhileCiftSayilar.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\DoWhileCiftSayilar\DoWhileCiftSayilar\obj\Debug\DoWhileCiftSayilar.pdb

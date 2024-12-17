@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\bin\Debug\akilli_ev_uygulamasi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\bin\Debug\akilli_ev_uygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\bin\Debug\akilli_ev_uygulamasi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\obj\Debug\akilli_ev_uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\obj\Debug\akilli_ev_uygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\obj\Debug\akilli_ev_uygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\obj\Debug\akilli_ev_uygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\obj\Debug\akilli_ev_uygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\akilli_ev_uygulamasi\akilli_ev_uygulamasi\obj\Debug\akilli_ev_uygulamasi.pdb
