@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\bin\Debug\WhileBreakUygulamasi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\bin\Debug\WhileBreakUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\bin\Debug\WhileBreakUygulamasi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\obj\Debug\WhileBreakUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\obj\Debug\WhileBreakUygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\obj\Debug\WhileBreakUygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\obj\Debug\WhileBreakUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\obj\Debug\WhileBreakUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileBreakUygulamasi\WhileBreakUygulamasi\obj\Debug\WhileBreakUygulamasi.pdb

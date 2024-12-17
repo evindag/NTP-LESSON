@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\bin\Debug\Switch_Case_Siparis.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\bin\Debug\Switch_Case_Siparis.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\bin\Debug\Switch_Case_Siparis.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\obj\Debug\Switch_Case_Siparis.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\obj\Debug\Switch_Case_Siparis.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\obj\Debug\Switch_Case_Siparis.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\obj\Debug\Switch_Case_Siparis.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\obj\Debug\Switch_Case_Siparis.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Switch_Case_Siparis\Switch_Case_Siparis\obj\Debug\Switch_Case_Siparis.pdb

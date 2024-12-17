@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\bin\Debug\WhileCiftSayi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\bin\Debug\WhileCiftSayi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\bin\Debug\WhileCiftSayi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\obj\Debug\WhileCiftSayi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\obj\Debug\WhileCiftSayi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\obj\Debug\WhileCiftSayi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\obj\Debug\WhileCiftSayi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\obj\Debug\WhileCiftSayi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\WhileCiftSayi\WhileCiftSayi\obj\Debug\WhileCiftSayi.pdb
