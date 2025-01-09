@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaKullaniciGirisli\ClassParametreliToplamaKullaniciGirisli\bin\Debug\ClassParametreliToplamaKullaniciGirisli.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaKullaniciGirisli\ClassParametreliToplamaKullaniciGirisli\obj\Debug\ClassParametreliToplamaKullaniciGirisli.csprojResolveAssemblyReference.cache

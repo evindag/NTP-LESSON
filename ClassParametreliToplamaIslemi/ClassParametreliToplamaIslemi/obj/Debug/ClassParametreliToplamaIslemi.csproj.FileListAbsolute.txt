@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaIslemi\ClassParametreliToplamaIslemi\bin\Debug\ClassParametreliToplamaIslemi.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaIslemi\ClassParametreliToplamaIslemi\bin\Debug\ClassParametreliToplamaIslemi.exe
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaIslemi\ClassParametreliToplamaIslemi\bin\Debug\ClassParametreliToplamaIslemi.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaIslemi\ClassParametreliToplamaIslemi\obj\Debug\ClassParametreliToplamaIslemi.exe
+C:\Users\Administrator\Desktop\evin\Console\github\ClassParametreliToplamaIslemi\ClassParametreliToplamaIslemi\obj\Debug\ClassParametreliToplamaIslemi.pdb
