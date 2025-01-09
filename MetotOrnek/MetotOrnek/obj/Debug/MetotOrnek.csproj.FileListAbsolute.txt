@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\evin\Console\github\MetotOrnek\MetotOrnek\bin\Debug\MetotOrnek.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\MetotOrnek\MetotOrnek\bin\Debug\MetotOrnek.exe
+C:\Users\Administrator\Desktop\evin\Console\github\MetotOrnek\MetotOrnek\bin\Debug\MetotOrnek.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\MetotOrnek\MetotOrnek\obj\Debug\MetotOrnek.exe
+C:\Users\Administrator\Desktop\evin\Console\github\MetotOrnek\MetotOrnek\obj\Debug\MetotOrnek.pdb

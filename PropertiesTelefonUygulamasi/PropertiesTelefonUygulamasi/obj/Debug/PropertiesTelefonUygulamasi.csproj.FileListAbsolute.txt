@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\evin\Console\github\PropertiesTelefonUygulamasi\PropertiesTelefonUygulamasi\bin\Debug\PropertiesTelefonUygulamasi.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\PropertiesTelefonUygulamasi\PropertiesTelefonUygulamasi\bin\Debug\PropertiesTelefonUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\Console\github\PropertiesTelefonUygulamasi\PropertiesTelefonUygulamasi\bin\Debug\PropertiesTelefonUygulamasi.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\PropertiesTelefonUygulamasi\PropertiesTelefonUygulamasi\obj\Debug\PropertiesTelefonUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\Console\github\PropertiesTelefonUygulamasi\PropertiesTelefonUygulamasi\obj\Debug\PropertiesTelefonUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\Console\github\PropertiesTelefonUygulamasi\PropertiesTelefonUygulamasi\obj\Debug\PropertiesTelefonUygulamasi.pdb
