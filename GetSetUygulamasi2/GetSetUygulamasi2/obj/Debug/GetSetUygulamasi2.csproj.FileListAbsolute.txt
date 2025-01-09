@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\evin\Console\github\GetSetUygulamasi2\GetSetUygulamasi2\bin\Debug\GetSetUygulamasi2.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\GetSetUygulamasi2\GetSetUygulamasi2\bin\Debug\GetSetUygulamasi2.exe
+C:\Users\Administrator\Desktop\evin\Console\github\GetSetUygulamasi2\GetSetUygulamasi2\bin\Debug\GetSetUygulamasi2.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\GetSetUygulamasi2\GetSetUygulamasi2\obj\Debug\GetSetUygulamasi2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\Console\github\GetSetUygulamasi2\GetSetUygulamasi2\obj\Debug\GetSetUygulamasi2.exe
+C:\Users\Administrator\Desktop\evin\Console\github\GetSetUygulamasi2\GetSetUygulamasi2\obj\Debug\GetSetUygulamasi2.pdb
