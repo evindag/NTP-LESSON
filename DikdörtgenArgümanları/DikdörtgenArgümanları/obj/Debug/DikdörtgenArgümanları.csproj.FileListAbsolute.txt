@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\evin\Console\github\DikdörtgenArgümanları\DikdörtgenArgümanları\bin\Debug\DikdörtgenArgümanları.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\DikdörtgenArgümanları\DikdörtgenArgümanları\bin\Debug\DikdörtgenArgümanları.exe
+C:\Users\Administrator\Desktop\evin\Console\github\DikdörtgenArgümanları\DikdörtgenArgümanları\bin\Debug\DikdörtgenArgümanları.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\DikdörtgenArgümanları\DikdörtgenArgümanları\obj\Debug\DikdörtgenArgümanları.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\Console\github\DikdörtgenArgümanları\DikdörtgenArgümanları\obj\Debug\DikdörtgenArgümanları.exe
+C:\Users\Administrator\Desktop\evin\Console\github\DikdörtgenArgümanları\DikdörtgenArgümanları\obj\Debug\DikdörtgenArgümanları.pdb

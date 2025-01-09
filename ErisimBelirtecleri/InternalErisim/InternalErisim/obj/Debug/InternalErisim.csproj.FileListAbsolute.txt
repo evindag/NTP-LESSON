@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\InternalErisim\InternalErisim\bin\Debug\InternalErisim.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\InternalErisim\InternalErisim\bin\Debug\InternalErisim.exe
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\InternalErisim\InternalErisim\bin\Debug\InternalErisim.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\InternalErisim\InternalErisim\obj\Debug\InternalErisim.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\InternalErisim\InternalErisim\obj\Debug\InternalErisim.exe
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\InternalErisim\InternalErisim\obj\Debug\InternalErisim.pdb

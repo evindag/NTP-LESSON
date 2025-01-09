@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\PublicErisim\PublicErisim\bin\Debug\PublicErisim.exe.config
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\PublicErisim\PublicErisim\bin\Debug\PublicErisim.exe
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\PublicErisim\PublicErisim\bin\Debug\PublicErisim.pdb
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\PublicErisim\PublicErisim\obj\Debug\PublicErisim.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\PublicErisim\PublicErisim\obj\Debug\PublicErisim.exe
+C:\Users\Administrator\Desktop\evin\Console\github\ErisimBelirtecleri\PublicErisim\PublicErisim\obj\Debug\PublicErisim.pdb
