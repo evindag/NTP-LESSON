@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\INTERFACE\GercekHayatInterfaceOrnegi\GercekHayatInterfaceOrnegi\bin\Debug\GercekHayatInterfaceOrnegi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\INTERFACE\GercekHayatInterfaceOrnegi\GercekHayatInterfaceOrnegi\obj\Debug\GercekHayatInterfaceOrnegi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\INTERFACE\GercekHayatInterfaceOrnegi\GercekHayatInterfaceOrnegi\bin\Debug\GercekHayatInterfaceOrnegi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\INTERFACE\GercekHayatInterfaceOrnegi\GercekHayatInterfaceOrnegi\bin\Debug\GercekHayatInterfaceOrnegi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\INTERFACE\GercekHayatInterfaceOrnegi\GercekHayatInterfaceOrnegi\obj\Debug\GercekHayatInterfaceOrnegi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\INTERFACE\GercekHayatInterfaceOrnegi\GercekHayatInterfaceOrnegi\obj\Debug\GercekHayatInterfaceOrnegi.pdb
