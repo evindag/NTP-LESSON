@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.exe
 C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.deps.json
 C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.runtimeconfig.json
@@ -15,3 +16,22 @@ C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Deb
 C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.pdb
 C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.genruntimeconfig.cache
 C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\ref\DizilerUygulama.dll
+=======
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\bin\Debug\net8.0-windows\DizilerUygulama.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.Form1.resources
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\refint\DizilerUygulama.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\DizilerUygulama.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\DizilerUygulama\DizilerUygulama\obj\Debug\net8.0-windows\ref\DizilerUygulama.dll
+>>>>>>> e7099af7a2f209c3c13628e2842f187bafab2e60
