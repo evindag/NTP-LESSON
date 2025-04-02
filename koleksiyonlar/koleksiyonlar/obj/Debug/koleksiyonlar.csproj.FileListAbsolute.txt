@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\bin\Debug\koleksiyonlar.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\koleksiyonlar\koleksiyonlar\obj\Debug\koleksiyonlar.pdb

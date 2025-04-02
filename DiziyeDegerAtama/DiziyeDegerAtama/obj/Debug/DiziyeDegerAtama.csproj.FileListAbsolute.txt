@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\bin\Debug\DiziyeDegerAtama.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\bin\Debug\DiziyeDegerAtama.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\bin\Debug\DiziyeDegerAtama.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\obj\Debug\DiziyeDegerAtama.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\obj\Debug\DiziyeDegerAtama.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\obj\Debug\DiziyeDegerAtama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\obj\Debug\DiziyeDegerAtama.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\obj\Debug\DiziyeDegerAtama.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\DiziyeDegerAtama\DiziyeDegerAtama\obj\Debug\DiziyeDegerAtama.pdb

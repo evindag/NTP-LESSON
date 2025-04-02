@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\bin\Debug\sayfa_127_uygulama4.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\bin\Debug\sayfa_127_uygulama4.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\bin\Debug\sayfa_127_uygulama4.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\obj\Debug\sayfa_127_uygulama4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\obj\Debug\sayfa_127_uygulama4.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\obj\Debug\sayfa_127_uygulama4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\obj\Debug\sayfa_127_uygulama4.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\obj\Debug\sayfa_127_uygulama4.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\sayfa_127_uygulama4\sayfa_127_uygulama4\obj\Debug\sayfa_127_uygulama4.pdb

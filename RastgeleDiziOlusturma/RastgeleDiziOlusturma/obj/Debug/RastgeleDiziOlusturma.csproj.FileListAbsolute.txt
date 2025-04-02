@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\bin\Debug\RastgeleDiziOlusturma.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\bin\Debug\RastgeleDiziOlusturma.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\bin\Debug\RastgeleDiziOlusturma.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\obj\Debug\RastgeleDiziOlusturma.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\obj\Debug\RastgeleDiziOlusturma.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\obj\Debug\RastgeleDiziOlusturma.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\obj\Debug\RastgeleDiziOlusturma.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\obj\Debug\RastgeleDiziOlusturma.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\RastgeleDiziOlusturma\RastgeleDiziOlusturma\obj\Debug\RastgeleDiziOlusturma.pdb

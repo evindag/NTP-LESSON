@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\bin\Debug\ForDonguToplam.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\bin\Debug\ForDonguToplam.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\bin\Debug\ForDonguToplam.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\obj\Debug\ForDonguToplam.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\obj\Debug\ForDonguToplam.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\obj\Debug\ForDonguToplam.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\obj\Debug\ForDonguToplam.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\obj\Debug\ForDonguToplam.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\ForDonguToplam\ForDonguToplam\obj\Debug\ForDonguToplam.pdb

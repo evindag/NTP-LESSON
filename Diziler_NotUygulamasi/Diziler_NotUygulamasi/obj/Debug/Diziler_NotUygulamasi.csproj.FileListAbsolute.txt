@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\bin\Debug\Diziler_NotUygulamasi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\bin\Debug\Diziler_NotUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\bin\Debug\Diziler_NotUygulamasi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\obj\Debug\Diziler_NotUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\obj\Debug\Diziler_NotUygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\obj\Debug\Diziler_NotUygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\obj\Debug\Diziler_NotUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\obj\Debug\Diziler_NotUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\Diziler_NotUygulamasi\Diziler_NotUygulamasi\obj\Debug\Diziler_NotUygulamasi.pdb

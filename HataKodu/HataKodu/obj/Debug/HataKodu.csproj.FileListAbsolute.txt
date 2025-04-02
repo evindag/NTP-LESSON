@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\bin\Debug\HataKodu.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\bin\Debug\HataKodu.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\bin\Debug\HataKodu.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\obj\Debug\HataKodu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\obj\Debug\HataKodu.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\obj\Debug\HataKodu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\obj\Debug\HataKodu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\obj\Debug\HataKodu.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\HataKodu\HataKodu\obj\Debug\HataKodu.pdb

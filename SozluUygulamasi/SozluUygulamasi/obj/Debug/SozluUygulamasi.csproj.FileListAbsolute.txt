@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\bin\Debug\SozluUygulamasi.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\bin\Debug\SozluUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\bin\Debug\SozluUygulamasi.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\obj\Debug\SozluUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\obj\Debug\SozluUygulamasi.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\obj\Debug\SozluUygulamasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\obj\Debug\SozluUygulamasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\obj\Debug\SozluUygulamasi.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\CokBoyutluDiziler\SozluUygulamasi\SozluUygulamasi\obj\Debug\SozluUygulamasi.pdb

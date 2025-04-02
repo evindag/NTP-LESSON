@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\bin\Debug\strin_dizi_olusturma.exe.config
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\bin\Debug\strin_dizi_olusturma.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\bin\Debug\strin_dizi_olusturma.pdb
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\obj\Debug\strin_dizi_olusturma.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\obj\Debug\strin_dizi_olusturma.Form1.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\obj\Debug\strin_dizi_olusturma.Properties.Resources.resources
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\obj\Debug\strin_dizi_olusturma.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\obj\Debug\strin_dizi_olusturma.exe
+C:\Users\Administrator\Desktop\evin\NTP-GITHUB-AT\strin_dizi_olusturma\strin_dizi_olusturma\obj\Debug\strin_dizi_olusturma.pdb

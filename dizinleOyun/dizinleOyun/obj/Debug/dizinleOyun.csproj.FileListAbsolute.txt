@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\bin\Debug\dizinleOyun.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\bin\Debug\dizinleOyun.exe
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\bin\Debug\dizinleOyun.pdb
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\obj\Debug\dizinleOyun.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\obj\Debug\dizinleOyun.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\obj\Debug\dizinleOyun.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\obj\Debug\dizinleOyun.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\obj\Debug\dizinleOyun.exe
+c:\users\pc\documents\visual studio 2015\Projects\dizinleOyun\dizinleOyun\obj\Debug\dizinleOyun.pdb
