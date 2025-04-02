@@ -1,0 +1,17 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\bin\Debug\net8.0-windows\sinav-sorusu.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\bin\Debug\net8.0-windows\sinav-sorusu.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\bin\Debug\net8.0-windows\sinav-sorusu.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\bin\Debug\net8.0-windows\sinav-sorusu.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\bin\Debug\net8.0-windows\sinav-sorusu.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav_sorusu.Form1.resources
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.csproj.GenerateResource.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\refint\sinav-sorusu.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\sinav-sorusu.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\sinav-sorusu\sinav-sorusu\obj\Debug\net8.0-windows\ref\sinav-sorusu.dll

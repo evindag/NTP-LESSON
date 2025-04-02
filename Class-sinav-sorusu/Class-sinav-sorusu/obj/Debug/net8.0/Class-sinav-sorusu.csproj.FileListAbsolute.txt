@@ -1,0 +1,15 @@
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\bin\Debug\net8.0\Class-sinav-sorusu.exe
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\bin\Debug\net8.0\Class-sinav-sorusu.deps.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\bin\Debug\net8.0\Class-sinav-sorusu.runtimeconfig.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\bin\Debug\net8.0\Class-sinav-sorusu.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\bin\Debug\net8.0\Class-sinav-sorusu.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.AssemblyInfoInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.AssemblyInfo.cs
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.csproj.CoreCompileInputs.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.sourcelink.json
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\refint\Class-sinav-sorusu.dll
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.pdb
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\Class-sinav-sorusu.genruntimeconfig.cache
+C:\Users\evin7\Belgeler\Github\NTP-Class\Class-sinav-sorusu\Class-sinav-sorusu\obj\Debug\net8.0\ref\Class-sinav-sorusu.dll
